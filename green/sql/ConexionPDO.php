@@ -21,17 +21,17 @@ class Conexion
         $dbname = "atletasdb";
         if (MODO_DE_TEST==0){
             $servername = "localhost";
-            $username = "gsscomve_robinad";
-            $password = 'RO;bi%ns$on[2889';
-            $dbname = "gsscomve_atletasdb";
+            $username = "algunapersona";
+            $password = 'secret';
+            $dbname = "database";
             error_reporting(0);
         }
         
         // if (MODO_DE_TEST==0){
         //     $servername = "46.105.189.131";
-        //     $username = "gsscomve_prueba";
-        //     $password = 'jugador1234';
-        //     $dbname = "gsscomve_jugadores";
+        //     $username = "jugador";
+        //     $password = '@@123jugador1234';
+        //     $dbname = "eljugador";
         //     error_reporting(1);
         // }        
         $port="3306";
