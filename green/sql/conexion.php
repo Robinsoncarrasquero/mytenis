@@ -13,12 +13,12 @@ error_reporting(0);
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "atletasdb";
+$dbname = "databasex";
 if (MODO_DE_TEST==0){
     $servername = "localhost";
-    $username = "gsscomve_robinad";
-    $password = 'RO;bi%ns$on[2889';
-    $dbname = "gsscomve_atletasdb";
+    $username = "username";
+    $password = 'secret';
+    $dbname = "databasex";
     error_reporting(0);
 }
 // if (MODO_DE_TEST==0){
