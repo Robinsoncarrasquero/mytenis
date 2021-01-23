@@ -3,14 +3,14 @@ date_default_timezone_set('America/La_Paz');
 ?>
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
-<title>Portal de Tenis</title>
+<title>System online </title>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="author" content="fvtenis.com.ve"/>
+<meta name="author" content="mytenis"/>
 <meta name="keywords" content="Tenis, club, eventos, deportivos,deporte, juniors, junior, tennis, sport, magazine" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="copyright" content="(c) www.fvtenis.com.ve - Venezuela" />
+<meta name="copyright" content="(c)  System Enrollment" />
 <meta name="robots" content="index,follow" />
 <meta http-equiv="expires" content="0" />
 <meta http-equiv="cache-control" content="no-cache" />
@@ -49,7 +49,7 @@ date_default_timezone_set('America/La_Paz');
            <div class="container">
       <div class="col-md-12">
            <div class="box-support"> 
-             <p class="support-info"><i class="fa fa-envelope-o"></i> info@fvtenis.com.ve</p>
+             <p class="support-info"><i class="fa fa-envelope-o"></i> info@example</p>
           </div>
            <div class="box-login"> 
             <!-- <i class="fa fa-shopping-cart"></i>-->
@@ -122,7 +122,7 @@ date_default_timezone_set('America/La_Paz');
               </div>
               <div id="slidematch" class="col-xs-12 col-md-12">
                   <div class="content-match-team-wrapper">
-                     <span class="gdlr-left">Venezuela</span>
+                     <span class="gdlr-left">Portugal</span>
                      <span class="gdlr-upcoming-match-versus">VS</span>
                      <span class="gdlr-right">New Zealand</span>
                   </div>
@@ -260,6 +260,14 @@ date_default_timezone_set('America/La_Paz');
                      <ul class="sponsor second">
                         
                     </ul>
+                    <ul class="sponsor second">
+                      <li><img src="http://placehold.it/273x133" alt="" /></li>
+                      <li><img src="http://placehold.it/273x133" alt="" /></li>
+                      <li><img src="http://placehold.it/273x133" alt="" /></li>
+                      <li><img src="http://placehold.it/273x133" alt="" /></li>
+                      <li><img src="http://placehold.it/273x133" alt="" /></li>
+                      <li><img src="http://placehold.it/273x133" alt="" /></li>
+                    </ul>
                 </div>
           </div>
        </section>  
@@ -267,10 +275,14 @@ date_default_timezone_set('America/La_Paz');
     <section id="footer-tag">
            <div class="container">
              <div class="col-md-12">
-              <div class="col-md-3">
-                 <h3>Sobre Nosotros</h3>
-                 <p>Gracias por visitar nuestra pagina.                
-              </div>
+             <div class="col-md-3">
+            <h3>Sobre Nosotros</h3>
+                <p>Gracias por visitar nuesto portal, nuestra mision es fomentar y administrar 
+                el tenis de competencia estadal. Planificar, coordinar y ejecutar el plan anual de
+                torneos para dar cumplimiento al calendario oficial establecido. Brindar informacion sobre el tenis
+                del estado.
+                
+            </div>
               <div class="col-md-3 cat-footer">
                 <div class="footer-map"></div>
                 <h3 class='last-cat '>Categorias</h3>
@@ -284,11 +296,15 @@ date_default_timezone_set('America/La_Paz');
               <div class="col-md-3">
               <h3>Noticias</h3>
               <ul class="footer-last-news">
-                <li><img src="img/img_descargadas/cdavis/game1.jpg" alt="" /><p>El resto de las series del Grupo Mundial I han celebrado sus sorteos en la jornada del viernes.</p>
+                <li><img src="img/img_descargadas/cdavis/game1.jpg" alt="Foto" />
+                  <p>El resto de las series del Grupo Mundial I han celebrado sus sorteos en la jornada del viernes.</p>
                 </li>
-                <li><img src="img/img_descargadas/cdavis/game1.jpg" alt "" /><p>Muñoz-Abreu perdió con Tearney, pero Martínez igualó la serie al vencer en tres sets al 1 neocelandés.
-                   </p></li>
-                <li><img src="img/img_descargadas/cdavis/game1.jpg" alt="" /><p>Fusce risus metus, placerat in consectetur eu...</p></li>
+                <li><img src="img/img_descargadas/cdavis/game1.jpg" alt="Doble" />
+                  <p>Muñoz-Abreu perdió con Tearney, pero Martínez igualó la serie al vencer en tres sets al 1 neocelandés.</p>
+                </li>
+                <li><img src="img/img_descargadas/cdavis/game1.jpg" alt="Lorem isum" />
+                  <p>Fusce risus metus, placerat in consectetur eu...</p>
+                </li>
                 </ul>
              </div>
               <div class="col-md-3 footer-newsletters">
@@ -326,8 +342,8 @@ date_default_timezone_set('America/La_Paz');
            </div>
     </section>
     <footer>
-           <div class="col-md-12 content-footer">
-		<p>© 2020 fvtenis.com.ve All rights reserved. </p>
+    <div class="col-md-12 content-footer">
+		<p>© 2020 mytenis All rights reserved. </p>
       </div>
 	</footer>
 

@@ -5,17 +5,17 @@ date_default_timezone_set('America/La_Paz');
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>fvtennis | Portal</title>
+<title>mytenis | Portal</title>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="author" content="fvtenis.com.ve"/>
-<meta name="keywords" content="Federacion, Tenis, club, eventos, deportivos,fvtenis, deporte, juniors, junior, tennis, sport, magazine" />
+<meta name="author" content="mytenis"/>
+<meta name="keywords" content="Asociaciones, Tenis, club, eventos, deportivos,MyTenis, deporte, juniors, junior, tennis, sport, magazine" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="copyright" content="(c) www.fvtenis.com.ve - Venezuela" />
+<meta name="copyright" content="(c)  System Enrollment" />
 <meta name="robots" content="index,follow" />
 <meta http-equiv="expires" content="0" />
 <meta http-equiv="cache-control" content="no-cache" />
 <meta http-equiv="pragma" content="no-cache" />
-<meta name="description" content="Federacion Venezolana de Tenis Portal Oficial">
+<meta name="description" content="Asociaciones Portal Oficial">
    
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
     <!--<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />-->
@@ -49,7 +49,7 @@ date_default_timezone_set('America/La_Paz');
            <div class="container">
       <div class="col-md-12">
            <div class="box-support"> 
-             <p class="support-info"><i class="fa fa-envelope-o"></i> info@fvtenis.com.ve</p>
+             <p class="support-info"><i class="fa fa-envelope-o"></i> info@example</p>
           </div>
            <div class="box-login"> 
             <!-- <i class="fa fa-shopping-cart"></i>-->
@@ -115,14 +115,14 @@ date_default_timezone_set('America/La_Paz');
                   <div class="container">
                       <div class="col-md-12 slide-txt">
                           <p class='sub-result aft-little welcome linetheme-left'>FVT</p>
-                          <p class='sub-result aft-little linetheme-right'>Fvtenis<span class="point-big">.</span></p>
+                          <p class='sub-result aft-little linetheme-right'>MyTenis<span class="point-big">.</span></p>
                       </div>
                   </div>
                 </div>
               </div>
               <div id="slidematch" class="col-xs-12 col-md-12">
                   <div class="content-match-team-wrapper">
-                     <span class="gdlr-left">Venezuela</span>
+                     <span class="gdlr-left">Portugal</span>
                      <span class="gdlr-upcoming-match-versus">VS</span>
                      <span class="gdlr-right">New Zealand</span>
                   </div>
@@ -274,7 +274,7 @@ date_default_timezone_set('America/La_Paz');
              <div class="col-md-12">
               <div class="col-md-3">
                  <h3>Sobre Nosotros</h3>
-                 <p>Gracias por visitar fvtenis.com.ve, nuestra mision es fomentar y reglamentar 
+                 <p>Gracias por visitar mytenis, nuestra mision es fomentar y reglamentar 
                  el tenis de competencia nacional e internacional. Crear, Planificar, coordinar y ejecutar el plan anual de
                   torneos oficiales para dar cumplimiento al calendario establecido. Brindar informacion y recursos sobre el tenis
                   Federado.
@@ -336,7 +336,7 @@ date_default_timezone_set('America/La_Paz');
     </section>
     <footer>
            <div class="col-md-12 content-footer">
-		<p>© 2020 fvtenis.com.ve All rights reserved. </p>
+		<p>© 2020 mytenis All rights reserved. </p>
       </div>
 	</footer>
 

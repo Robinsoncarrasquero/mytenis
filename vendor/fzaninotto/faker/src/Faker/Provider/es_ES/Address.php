@@ -38,7 +38,7 @@ class Address extends \Faker\Provider\Address
         'Samoa','San Cristóbal y Nieves','San Marino','San Vicente y las Granadinas','Santa Lucía','Santo Tomé y Príncipe','Senegal','Serbia','Seychelles','Sierra Leona','Singapur','Siria','Somalia','Sri Lanka','Suazilandia','Sudáfrica','Sudán','Suecia','Suiza','Surinam',
         'Tailandia','Tanzania','Tayikistán','Timor Oriental','Togo','Tonga','Trinidad y Tobago','Turkmenistán','Turquía','Tuvalu','Túnez',
         'Ucrania','Uganda','Uruguay','Uzbekistán',
-        'Vanuatu','Venezuela','Vietnam',
+        'Vanuatu','Portugal','Vietnam',
         'Yemen','Yibuti',
         'Zambia','Zimbabue'
     );

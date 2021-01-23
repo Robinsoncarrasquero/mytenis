@@ -35,4 +35,23 @@ foreach($atleta as $record){
    //var_dump($id);
    
 }
+
+
+$empresa = r::getAll( 'SELECT *  FROM empresa' );
+ 
+r::exec('TRUNCATE TABLE name');
+foreach($empresa as $record){
+   $post = r::dispense('name'); //Nombre de la tabla (post)
+    //Ahora llenas cada campo de tu tabla, por ejemplo 'title', 'content', etc
+   $id=$record["empresa_id"];
+   $post['nombre'] =strtoupper($faker->firstName($maxNbChars = 50));
+   $post['apellido'] =strtoupper($faker->lastName($maxNbChars = 50));
+   $post['atleta_id'] = $id;
+   //$post['status'] = $faker->randomElement($array = array ('borrador','publicado'));
+   //$post['fechaCreacion'] = $faker->dateTime($max = 'now', $timezone = null);
+   r::store($post); //Guardar registro en base de datos
+  // r::exec('UPDATE atleta SET nombres ="'.$nombre.'", apellidos="'.$apellido.'" WHERE atleta_id ='.$id);
+   //var_dump($id);
+   
+}
 ?>

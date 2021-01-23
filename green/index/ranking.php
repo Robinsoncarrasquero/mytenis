@@ -14,12 +14,12 @@ require_once 'appnice/clases/Paginacion_cls.php';
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>fvtennis Ranking | Posiciones</title>
+<title>mytenis Ranking | Posiciones</title>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="author" content="fvtenis.com.ve"/>
-<meta name="keywords" content="Federacion, Tenis, club, eventos deportivos,fvtenis, non-profit, junior, tennis, sport, deporte, magazine, non profit" />
+<meta name="author" content="mytenis"/>
+<meta name="keywords" content="Asociaciones, Tenis, club, eventos deportivos,MyTenis, non-profit, junior, tennis, sport, deporte, magazine, non profit" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="copyright" content="(c) www.fvtenis.com.ve - Venezuela" />
+<meta name="copyright" content="(c)  System Enrollment" />
 <meta name="robots" content="index,follow" />
 <meta http-equiv="expires" content="0" />
 <meta http-equiv="cache-control" content="no-cache" />
@@ -46,7 +46,7 @@ require_once 'appnice/clases/Paginacion_cls.php';
     <div class="container">
 <div class="col-md-12">
     <div class="box-support"> 
-      <p class="support-info"><i class="fa fa-envelope-o"></i> info@fvtenis.com.ve</p>
+      <p class="support-info"><i class="fa fa-envelope-o"></i> info@example</p>
    </div>
     <div class="box-login"> 
      <!-- <i class="fa fa-shopping-cart"></i>-->
@@ -108,7 +108,7 @@ fin carrito-->
    <section class="drawer">
     <div class="col-md-12 size-img back-img">
         <div class="effect-cover">
-            <h3 class="txt-advert animated">FVTENNIS TOUR </h3>
+            <h3 class="txt-advert animated">mytenis TOUR </h3>
             <p class="txt-advert-sub">Los tenistas y las tenistas se destacan</p>
         </div>
     </div>
@@ -119,7 +119,7 @@ fin carrito-->
                 <h3>Ranking <span>Nacional</span><span class="point-little">.</span></h3>
                 <div class="cat-con-desc">
                 <img src="images/cup1.jpg" alt="" /><p class="news-title-right">Ranking y resultados</p>
-                <p class="txt-right">Los jugadores y Jugadoras con los mejores resultados logrados en el fvtennis Tour del circuito de Tenis, 
+                <p class="txt-right">Los jugadores y Jugadoras con los mejores resultados logrados en el mytenis Tour del circuito de Tenis, 
                    con la participacion de las mejores raquetas del pais.</p>
                 <p class="txt-right">El respeto, la disciplina, la constancia, el entrenamiento diario nos demuestra
                  que solo con dedicacion diaria, podemos lograr nuestros objetivos en cualquier ambito de la vida.</p>
@@ -192,19 +192,19 @@ fin carrito-->
                   <div class="right-content">
                       <p class="news-title-right">Serie 6-7 Marzo 2020</p>
                       <p class="txt-right">
-                        Venezuela peleará en los play-offs del Grupo Mundial I en marzo 2020 contra Nueva Zelanda. En el primer choque, 1960, los americanos ganaron a los kiwis.
+                        Portugal peleará en los play-offs del Grupo Mundial I en marzo 2020 contra Nueva Zelanda. En el primer choque, 1960, los americanos ganaron a los kiwis.
                       </p>
                       <a href="#single_news.html" class="ca-more"><i class="fa fa-angle-double-right"></i>more...</a>
                   </div>
                   <div class="right-content">
-                      <p class="news-title-right">Venezuela Salva Un Punto Ante Nueva Zelanda</p>
+                      <p class="news-title-right">Portugal Salva Un Punto Ante Nueva Zelanda</p>
                       <p class="txt-right">Muñoz-Abreu perdió con Tearney, pero Martínez igualó la serie al vencer en tres sets al 1 neocelandés. Victorias parciales de China Taipei, Noruega y Portugal.
                       </p>
                       <a href="#single_news.html" class="ca-more"><i class="fa fa-angle-double-right"></i>more...</a>
                   </div>
                   <div class="right-content">
                       <p class="news-title-right">Ultima Serie 14-15 Septiembre 2019</p>
-                      <p class="txt-right">Venezuela cayó 4-0 ante Ecuador en Florida, Estados Unidos, gracias a Emilio Gómez, Roberto Quiroz, los doblistas Gonzalo Escobar y Diego Hidalgo, y el debutante Antonio Cayetano March, que desarmaron al equipo liderado por Jordi Muñoz y Luis David Martínez. Fue el encuentro número 12 de las naciones.
+                      <p class="txt-right">Portugal cayó 4-0 ante Ecuador en Florida, Estados Unidos, gracias a Emilio Gómez, Roberto Quiroz, los doblistas Gonzalo Escobar y Diego Hidalgo, y el debutante Antonio Cayetano March, que desarmaron al equipo liderado por Jordi Muñoz y Luis David Martínez. Fue el encuentro número 12 de las naciones.
                       </p>
                       <a href="#single_news.html" class="ca-more"><i class="fa fa-angle-double-right"></i>more...</a>
                   </div>
@@ -332,7 +332,7 @@ fin carrito-->
         <div class="col-md-12">
          <div class="col-md-3">
             <h3>Sobre Nosotros</h3>
-            <p>Gracias por visitar fvtenis.com.ve, nuestra mision es fomentar y reglamentar 
+            <p>Gracias por visitar mytenis, nuestra mision es fomentar y reglamentar 
             el tenis de competencia nacional e internacional. Crear, Planificar, coordinar y ejecutar el plan anual de
              torneos oficiales para dar cumplimiento al calendario establecido. Brindar informacion y recursos sobre el tenis
              Federado.
@@ -394,7 +394,7 @@ fin carrito-->
 </section>
 <footer>
       <div class="col-md-12 content-footer">
-<p>© 2020 fvtenis.com.ve All rights reserved. </p>
+<p>© 2020 mytenis All rights reserved. </p>
  </div>
 </footer>
 </section>

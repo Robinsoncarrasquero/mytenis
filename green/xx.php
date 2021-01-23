@@ -12,17 +12,17 @@ $rsEntidades = Empresa::Entidades();
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<title>fvtennis Registro de Afiliados</title>
+<title>mytenis Registro de Afiliados</title>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="author" content="fvtenis.com.ve"/>
-<meta name="keywords" content="Federacion, Tenis, club, eventos deportivos,fvtenis, non-profit, junior, tennis, sport, deporte, magazine, non profit" />
+<meta name="author" content="mytenis"/>
+<meta name="keywords" content="Asociaciones, Tenis, club, eventos deportivos,MyTenis, non-profit, junior, tennis, sport, deporte, magazine, non profit" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta name="copyright" content="(c) www.fvtenis.com.ve - Venezuela" />
+<meta name="copyright" content="(c)  System Enrollment" />
 <meta name="robots" content="index,follow" />
 <meta http-equiv="expires" content="0" />
 <meta http-equiv="cache-control" content="no-cache" />
 <meta http-equiv="pragma" content="no-cache" />
-<meta name="description" content="Acceso al sistema de inscripciones online de torneos de tenis de la FVT">
+<meta name="description" content="Acceso al sistema de inscripciones online de clubes">
     
     
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
@@ -52,7 +52,7 @@ $rsEntidades = Empresa::Entidades();
     <div class="container">
 <div class="col-sm-12">
     <div class="box-support"> 
-      <p class="support-info"><i class="fa fa-envelope-o"></i> info@fvtenis.com.ve</p>
+      <p class="support-info"><i class="fa fa-envelope-o"></i> info@example</p>
    </div>
     <div class="box-login"> 
      <!-- <i class="fa fa-shopping-cart"></i>-->
@@ -290,7 +290,7 @@ fin carrito-->
         <div class="col-sm-12">
          <div class="col-sm-3">
             <h3>Sobre Nosotros</h3>
-            <p>Gracias por visitar fvtenis.com.ve, nuestra mision es fomentar y reglamentar 
+            <p>Gracias por visitar mytenis, nuestra mision es fomentar y reglamentar 
             el tenis de competencia nacional e internacional. Crear, planificar, coordinar y ejecutar el plan anual de
              torneos oficiales para dar cumplimiento al calendario establecido. Brindar informacion y recursos sobre el tenis
              Federado.
@@ -351,7 +351,7 @@ fin carrito-->
 </section>
 <footer>
     <div class="col-sm-12 content-footer">
-      <p>© 2020 fvtenis.com.ve All rights reserved. </p>
+      <p>© 2020 mytenis All rights reserved. </p>
     </div>
 </footer>
 </section>
